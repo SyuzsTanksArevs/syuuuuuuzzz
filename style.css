@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.general{
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(./img/photo_2023-10-26_00-04-28.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 32% 50%;
+}
+
+
+audio{
+
+    width: 30%;
+    height: 40px;
+}
+
+
+
