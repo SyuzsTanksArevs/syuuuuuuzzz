@@ -8,7 +8,7 @@
 .general{
     width: 100%;
     min-height: 100vh;
-    background-image: url(./img/photo_2023-10-26_00-04-28.jpg);
+    background-image: url(photo_2023-10-26_00-04-28.jpg);
     display: flex;
     justify-content: center;
     align-items: center;
